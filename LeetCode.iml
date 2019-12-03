@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/ArrayToBST" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LongestCommonPrefix" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CountAndSay" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JewelsAndStones" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
