@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/ArrayToBST" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LongestCommonPrefix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CountAndSay" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
