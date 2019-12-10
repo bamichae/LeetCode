@@ -2,6 +2,9 @@ package HammingDistance;
 
 public class HammingDistance
 {
+    /**
+     * Solution shows that bitwise XOR is best, return Integer.bitCount(x ^ y) one liner solves it
+     */
     public int hammingDistance(int x, int y)
     {
         String xBinary = Integer.toBinaryString(x), yBinary = Integer.toBinaryString(y);
