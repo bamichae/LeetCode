@@ -1,3 +1,4 @@
+package JewelsAndStones;
 public class JewelsAndStones
 {
     public int numJewelsInStones(String J, String S)
