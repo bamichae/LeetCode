@@ -1,8 +1,9 @@
+package MinStack;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.PriorityQueue;
 
-class MinStack {
+public class MinStack {
 
     private PriorityQueue<Integer> minQueue = new PriorityQueue<>();
     private List<Integer> stack = new LinkedList<>();

@@ -1,3 +1,4 @@
+package MinTimeVisitAllPoints;
 public class MinTimeVisitAllPoints
 {
     /**
